@@ -1,0 +1,234 @@
+[
+  {
+    "key": "lab-0",
+    "type": "task",
+    "date": "2026-09-08",
+    "title": "Lab 0",
+    "link": "https://cs.nyu.edu/~mwalfish/classes/26fa/setup.html",
+    "detail": "Course deadline: RS2 (Productivity) (logistics and registration) LAB 0 DUE, 11:59 PM (notes)  Demo source"
+  },
+  {
+    "key": "quiz-1",
+    "type": "event",
+    "date": "2026-09-09",
+    "title": "Quiz 1",
+    "link": "https://cs.nyu.edu/~mwalfish/classes/26fa/quiz/q01.pdf",
+    "detail": "Processes I (notes) (handout) (whiteboard)"
+  },
+  {
+    "key": "hw-1",
+    "type": "task",
+    "date": "2026-09-10",
+    "title": "HW 1",
+    "link": "https://cs.nyu.edu/~mwalfish/classes/26fa/hw/hw1.html",
+    "detail": "Course deadline: HW 1 DUE, 11:59PM"
+  },
+  {
+    "key": "lab-1",
+    "type": "task",
+    "date": "2026-09-11",
+    "title": "Lab 1",
+    "link": "https://cs.nyu.edu/~mwalfish/classes/26fa/labs/lab1.html",
+    "detail": "Course deadline: LAB 1 DUE, 11:59 PM  Lab 2 released"
+  },
+  {
+    "key": "quiz-2",
+    "type": "event",
+    "date": "2026-09-14",
+    "title": "Quiz 2",
+    "link": "https://cs.nyu.edu/~mwalfish/classes/26fa/quiz/q02.pdf",
+    "detail": "Processes II (notes) (whiteboard)"
+  },
+  {
+    "key": "hw-2",
+    "type": "task",
+    "date": "2026-09-15",
+    "title": "HW 2",
+    "link": "https://cs.nyu.edu/~mwalfish/classes/26fa/hw/hw2.html",
+    "detail": "Course deadline: RS3 (lab 2) (logistics and registration) HW 2 DUE, 11:59 PM (notes)"
+  },
+  {
+    "key": "hw-3",
+    "type": "task",
+    "date": "2026-09-22",
+    "title": "HW 3",
+    "link": "https://cs.nyu.edu/~mwalfish/classes/26fa/hw/hw3.html",
+    "detail": "Course deadline: HW 3 DUE, 11:59 PM"
+  },
+  {
+    "key": "quiz-3",
+    "type": "event",
+    "date": "2026-09-23",
+    "title": "Quiz 3",
+    "link": "https://cs.nyu.edu/~mwalfish/classes/26fa/syllabus.html",
+    "detail": "Concurrency/synchronization II (notes) (handout) (whiteboard)"
+  },
+  {
+    "key": "lab-2",
+    "type": "task",
+    "date": "2026-09-25",
+    "title": "Lab 2",
+    "link": "https://cs.nyu.edu/~mwalfish/classes/26fa/labs/lab2.html",
+    "detail": "Course deadline: LAB 2 DUE, 11:59 PM  Lab 3 released"
+  },
+  {
+    "key": "hw-4",
+    "type": "task",
+    "date": "2026-09-29",
+    "title": "HW 4",
+    "link": "https://cs.nyu.edu/~mwalfish/classes/26fa/hw/hw4.html",
+    "detail": "Course deadline: HW 4 DUE, 11:59 PM"
+  },
+  {
+    "key": "quiz-4",
+    "type": "event",
+    "date": "2026-09-30",
+    "title": "Quiz 4",
+    "link": "https://cs.nyu.edu/~mwalfish/classes/26fa/syllabus.html",
+    "detail": "Concurrency/synchronization IV"
+  },
+  {
+    "key": "hw-5",
+    "type": "task",
+    "date": "2026-10-06",
+    "title": "HW 5",
+    "link": "https://cs.nyu.edu/~mwalfish/classes/26fa/hw/hw5.html",
+    "detail": "Course deadline: HW 5 DUE, 11:59 PM"
+  },
+  {
+    "key": "quiz-5",
+    "type": "event",
+    "date": "2026-10-07",
+    "title": "Quiz 5",
+    "link": "https://cs.nyu.edu/~mwalfish/classes/26fa/syllabus.html",
+    "detail": "Software safety I: Therac-25"
+  },
+  {
+    "key": "lab-3",
+    "type": "task",
+    "date": "2026-10-09",
+    "title": "Lab 3",
+    "link": "https://cs.nyu.edu/~mwalfish/classes/26fa/labs/lab3.html",
+    "detail": "Course deadline: LAB 3 DUE, 11:59 PM"
+  },
+  {
+    "key": "hw-6",
+    "type": "task",
+    "date": "2026-10-13",
+    "title": "HW 6",
+    "link": "",
+    "detail": "Course deadline: HW 6 DUE, 11:59 PM"
+  },
+  {
+    "key": "midterm",
+    "type": "event",
+    "date": "2026-10-21",
+    "title": "Midterm exam",
+    "link": "https://cs.nyu.edu/~mwalfish/classes/26fa/syllabus.html",
+    "detail": ""
+  },
+  {
+    "key": "quiz-6",
+    "type": "event",
+    "date": "2026-10-26",
+    "title": "Quiz 6",
+    "link": "https://cs.nyu.edu/~mwalfish/classes/26fa/syllabus.html",
+    "detail": "Virtual Memory II"
+  },
+  {
+    "key": "hw-7",
+    "type": "task",
+    "date": "2026-10-27",
+    "title": "HW 7",
+    "link": "",
+    "detail": "Course deadline: RS5 (virtual memory) (logistics and registration) HW 7 DUE, 11:59 PM"
+  },
+  {
+    "key": "hw-8",
+    "type": "task",
+    "date": "2026-11-03",
+    "title": "HW 8",
+    "link": "",
+    "detail": "Course deadline: RS6 (lab 4) (logistics and registration) HW 8 DUE, 11:59 PM"
+  },
+  {
+    "key": "quiz-7",
+    "type": "event",
+    "date": "2026-11-04",
+    "title": "Quiz 7",
+    "link": "https://cs.nyu.edu/~mwalfish/classes/26fa/syllabus.html",
+    "detail": "I/O"
+  },
+  {
+    "key": "hw-9",
+    "type": "task",
+    "date": "2026-11-10",
+    "title": "HW 9",
+    "link": "",
+    "detail": "Course deadline: HW 9 DUE, 11:59 PM"
+  },
+  {
+    "key": "lab-4",
+    "type": "task",
+    "date": "2026-11-13",
+    "title": "Lab 4",
+    "link": "",
+    "detail": "Course deadline: LAB 4 DUE, 11:59 PM"
+  },
+  {
+    "key": "hw-10",
+    "type": "task",
+    "date": "2026-11-17",
+    "title": "HW 10",
+    "link": "",
+    "detail": "Course deadline: HW 10 DUE, 11:59 PM"
+  },
+  {
+    "key": "quiz-8",
+    "type": "event",
+    "date": "2026-11-18",
+    "title": "Quiz 8",
+    "link": "https://cs.nyu.edu/~mwalfish/classes/26fa/syllabus.html",
+    "detail": "File systems II"
+  },
+  {
+    "key": "hw-11",
+    "type": "task",
+    "date": "2026-11-24",
+    "title": "HW 11",
+    "link": "",
+    "detail": "Course deadline: HW 11 DUE, 11:59 PM"
+  },
+  {
+    "key": "hw-12",
+    "type": "task",
+    "date": "2026-12-01",
+    "title": "HW 12",
+    "link": "",
+    "detail": "Course deadline: RS8 (TBA) (logistics and registration) HW 12 DUE, 11:59 PM"
+  },
+  {
+    "key": "quiz-9",
+    "type": "event",
+    "date": "2026-12-02",
+    "title": "Quiz 9",
+    "link": "https://cs.nyu.edu/~mwalfish/classes/26fa/syllabus.html",
+    "detail": "Security II"
+  },
+  {
+    "key": "lab-5",
+    "type": "task",
+    "date": "2026-12-04",
+    "title": "Lab 5",
+    "link": "",
+    "detail": "Course deadline: LAB 5 DUE, 11:59 PM"
+  },
+  {
+    "key": "hw-13",
+    "type": "task",
+    "date": "2026-12-08",
+    "title": "HW 13",
+    "link": "",
+    "detail": "Course deadline: HW 13 DUE, 11:59 PM"
+  }
+]
