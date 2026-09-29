@@ -3,6 +3,35 @@
 This Google Apps Script syncs NYU CSCI-UA.0202 Fall 2026 from:
 https://cs.nyu.edu/~mwalfish/classes/26fa/syllabus.html
 
+## Set up Google Calendar and Tasks
+
+Use the same Google account for Calendar, Tasks, and the Apps Script project. There are two separate destinations named **Operating Systems**: a calendar for quizzes/exams and a task list for homework/labs. If either already exists, reuse it instead of creating a duplicate.
+
+### Create the calendar
+
+1. On a computer, open [Google Calendar](https://calendar.google.com/).
+2. In the left sidebar, click **+** next to **Other calendars**, then **Create new calendar**.
+3. Enter **Operating Systems** as the name, with that exact capitalization and spacing.
+4. Set its time zone to **America/New_York (Eastern Time)** and click **Create calendar**.
+5. Return to the calendar view. Under **My calendars**, make sure **Operating Systems** is checked so its events are visible.
+
+The calendar must exist before the first sync. The script finds it by name; it does not create it automatically. You do not need to make it public or share it.
+
+### Create the task list
+
+1. In Google Calendar, click the **Tasks** icon in the right sidebar.
+2. At the top of the Tasks panel, click the arrow beside the current list name.
+3. Select **Create a new list**.
+4. Enter **Operating Systems** and click **Done**.
+
+Creating the task list manually is optional: the script creates it automatically if it does not exist. If you already have a list with this name, use that list.
+
+### Show both on your calendar
+
+In Google Calendar's left sidebar, enable both **Tasks** and **Operating Systems**. Homework and labs belong to the task list and appear through Calendar's Tasks display; quizzes and exams belong to the separate Operating Systems calendar. Creating the calendar alone does not create the task list.
+
+Google's setup guides: [Create a calendar](https://support.google.com/calendar/answer/37095?hl=en) and [Create a task list](https://support.google.com/tasks/answer/7675771?co=GENIE.Platform%3DDesktop&hl=en).
+
 ## Install once
 
 1. Open https://script.google.com/ while signed into the Google account with your Operating Systems calendar. Create a New project and name it Operating Systems Schedule Sync.
